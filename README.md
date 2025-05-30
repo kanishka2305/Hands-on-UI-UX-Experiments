@@ -1,4 +1,4 @@
-# Hands-on-UI-UX-Experiments
+# Unit-1 Hands-on-UI-UX-Experiments
 ## AIM
 To understand and apply the fundamentals of UI and UX design, differentiate between UI and UX through real-world case studies, explore their interrelation in product design, and demonstrate the use of modern UI/UX design tools.
 
