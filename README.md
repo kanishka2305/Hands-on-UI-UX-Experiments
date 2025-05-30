@@ -13,35 +13,37 @@ Compare UI and UX roles in a project lifecycle
 List key principles for effective design
 
 2. Differentiate Between UI and UX Using Real-World Case Studies
-Case Study 1 (Good UI, Poor UX)
+• Case Study 1 (Good UI, Poor UX)
 Example: A visually appealing e-commerce app with confusing checkout flow
 
-Case Study 2 (Poor UI, Good UX)
+• Case Study 2 (Poor UI, Good UX)
 Example: Craigslist – outdated visuals but highly functional
 
 Analyze:
 
-User goals
-Flow clarity
-Design feedback
-Accessibility and consistency
+• User goals
+• Flow clarity
+• Design feedback
+• Accessibility and consistency
 
 3. Illustrate the Relationship Between UI and UX in Design
-Develop a flow showing:
-User research → Empathy map → Wireframes → UI screens
-Highlight how UX informs layout decisions
-Use simple feature (e.g., Login form) to demonstrate UX to UI evolution
+• Develop a flow showing:
+   ৹ User research → Empathy map → Wireframes → UI screens
+• Highlight how UX informs layout decisions
+• Use simple feature (e.g., Login form) to demonstrate UX to UI evolution
+
 4. Demonstrate Various UI/UX Design Tools
-Figma: Collaborative design, prototyping, components
-Balsamiq: Low-fidelity wireframing
-Adobe XD: High-fidelity design and interaction
-For each tool:
-Provide screenshots
-Explain use cases
-Create a small sample project
+• Figma: Collaborative design, prototyping, components
+• Balsamiq: Low-fidelity wireframing
+• Adobe XD: High-fidelity design and interaction
+• For each tool:
+    ৹ Provide screenshots
+    ৹ Explain use cases
+    ৹ Create a small sample project
 
 ## OBSERVATIONS:
-![image](https://github.com/user-attachments/assets/ed53c7c5-03c7-4a37-b971-d055b61e3b81)
+![image](https://github.com/user-attachments/assets/474f9440-364e-4571-a959-0da284d6f39e)
+
 
 ## Results:
 The experiment helped distinguish between UI and UX clearly through case studies. Students successfully understood how UX flows guide UI design. Hands-on exposure to tools like Figma and Balsamiq enhanced practical skills and design awareness.
