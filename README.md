@@ -7,12 +7,14 @@ Many students and aspiring designers struggle to distinguish between UI and UX, 
 
 ## DESIGN STEPS
 1. Explore the Fundamentals of UI and UX
-Define UI (User Interface): layout, typography, colors, visual design
-Define UX (User Experience): flow, usability, information architecture
-Compare UI and UX roles in a project lifecycle
-List key principles for effective design
+
+• Define UI (User Interface): layout, typography, colors, visual design
+• Define UX (User Experience): flow, usability, information architecture
+• Compare UI and UX roles in a project lifecycle
+• List key principles for effective design
 
 2. Differentiate Between UI and UX Using Real-World Case Studies
+   
 • Case Study 1 (Good UI, Poor UX)
 Example: A visually appealing e-commerce app with confusing checkout flow
 
@@ -27,12 +29,14 @@ Analyze:
 • Accessibility and consistency
 
 3. Illustrate the Relationship Between UI and UX in Design
+
 • Develop a flow showing:
    ৹ User research → Empathy map → Wireframes → UI screens
 • Highlight how UX informs layout decisions
 • Use simple feature (e.g., Login form) to demonstrate UX to UI evolution
 
 4. Demonstrate Various UI/UX Design Tools
+   
 • Figma: Collaborative design, prototyping, components
 • Balsamiq: Low-fidelity wireframing
 • Adobe XD: High-fidelity design and interaction
